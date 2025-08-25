@@ -20,6 +20,7 @@ static const char* steam_paths[] = {
 };
 
 static const char* runtime_paths[] = {
+    "/.steam/bin/steam-runtime",
     "/.local/share/Steam/ubuntu12_32/steam-runtime",
     "/.steam/ubuntu12_32/steam-runtime",
 };
